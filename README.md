@@ -1,0 +1,1 @@
+# ruby-loja-virtual
