@@ -1,4 +1,4 @@
-require 'FileUtils'
+require 'fileutils'
 
 desc 'Clean all database files'
 namespace :db do
