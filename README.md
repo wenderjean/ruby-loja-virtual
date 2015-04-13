@@ -14,3 +14,5 @@ To clear all database files "/db/**/*.yml" created use
 To clear a specific model database files created use
 
 ``rake "db:clear[model]"``<br/>
+
+## Testes [![Build Status](https://semaphoreci.com/api/v1/projects/53460dc0-a7a8-4dac-869a-67a253426ecd/396768/badge.svg)](https://semaphoreci.com/wjsf/ruby-loja-virtual)      
